@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Xeon/Documents/Unreal Projects/BananaGuy 5.4/Content/PrimeiroGame/Player/BP_Player_Banana.uasset",
+				"C:/Users/Xeon/Documents/Unreal Projects/BananaGuy 5.4/Content/PrimeiroGame/Core/BP_PC_Core.uasset",
+				"C:/Users/Xeon/Documents/Unreal Projects/BananaGuy 5.4/Content/PrimeiroGame/Traps/BP_CheckPoint.uasset",
+				"C:/Users/Xeon/Documents/Unreal Projects/BananaGuy 5.4/Content/PrimeiroGame/Map/Level00.umap",
+				"C:/Users/Xeon/Documents/Unreal Projects/BananaGuy 5.4/Content/PrimeiroGame/Core/BP_GM_Core.uasset",
+				"C:/Users/Xeon/Documents/Unreal Projects/BananaGuy 5.4/Content/PrimeiroGame/Traps/BP_Hammer.uasset",
+				"C:/Users/Xeon/Documents/Unreal Projects/BananaGuy 5.4/Content/PrimeiroGame/Traps/BP_Spikes.uasset",
 				"C:/Users/thalles.nunes/Documents/Unreal Projects/PrimeiroGame/Content/PrimeiroGame/Map/Level00.umap",
 				"C:/Users/thalles.nunes/Documents/Unreal Projects/PrimeiroGame/Content/PrimeiroGame/Player/BP_Player.uasset",
 				"C:/Users/thalles.nunes/Documents/Unreal Projects/PrimeiroGame/Content/PrimeiroGame/Core/GM_Core.uasset",
